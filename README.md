@@ -1,0 +1,2 @@
+# 5th-semester-project----Project-managment-system-for-small-organizations-and-work-flow-mangement-
+This is trello like project, where me and my group have created user-friendly project management trello like project in order to achive higher producitvity and reduce communication error rate with in  small groups, also it helped us a lot during next 2 semester as we used this tool to improve our project managent, this is native android App(Kotlin)
